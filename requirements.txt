@@ -1,0 +1,4 @@
+dnspython>=2.6.1
+requests>=2.32.3
+python-whois>=0.9.4
+ipwhois>=1.2.0
