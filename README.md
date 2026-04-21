@@ -150,10 +150,7 @@ Contributions are welcome! Please:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+----
 
-**Built with ❤️ for the security community**
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Built with ❤️ for the security community.
+Stay ethical. Stay curious. Stay safe. Stay learning!
