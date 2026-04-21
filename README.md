@@ -153,4 +153,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ----
 
 Built with ❤️ for the security community.
+
 Stay ethical. Stay curious. Stay safe. Stay learning!
