@@ -1082,7 +1082,7 @@ class DomainHarvesterScanner:
 
 def print_header(scanner: DomainHarvesterScanner) -> None:
     print("\n" + "=" * 78)
-    print("                V O R T E X   P R O   S E C U R I T Y   S C A N")
+    print("                D O M A I N H A R V E S T E R   S E C U R I T Y   S C A N       ")
     print("=" * 78)
     for k, v in scanner.report["meta"].items():
         print(f"{k.upper():14}: {v}")
